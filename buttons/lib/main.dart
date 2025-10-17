@@ -96,8 +96,8 @@ class ButtonsPage extends StatelessWidget {
                                 FloatingActionButton(onPressed: (){
                                   
                                 },
-                                child:Icon(Icons.add),
-                                backgroundColor: Colors.blue,)
+                                backgroundColor: Colors.blue,
+                                child:Icon(Icons.add),)
                               ]
                             )
                           ),
